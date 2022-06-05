@@ -1,0 +1,15 @@
+p{
+	color: violet;
+	font-size: 17px;
+}
+ol{
+	color: green;
+}
+ul{
+	color: darkgreen;
+}
+
+.colordarkbl{
+	text-transform: uppercase;
+	color: darkslateblue;
+}
